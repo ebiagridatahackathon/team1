@@ -62,7 +62,7 @@ Simon: mapped more here: https://docs.google.com/spreadsheets/d/1kXwv32pGGBjf9lV
 
 Neo4j schema
 
-![neo4j schema](team1/schema.jpeg?raw=true)
+![neo4j schema](schema.jpeg?raw=true)
 
 Neo4j queries
 
