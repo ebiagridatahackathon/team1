@@ -33,7 +33,7 @@ Presentation https://docs.google.com/presentation/d/1z0yBN9KYbJ_tY6Bk5nTac0k4RVw
 
 ## Implementation 
 
-We used Neo4j as the environment to store our integrated database. It is available here: http://193.62.55.113:7474/browser/ 
+We used Neo4j as the environment to store our integrated database. 
 
 Python
 Some scripts were used to extract the event info from the databases:
@@ -47,12 +47,13 @@ All extracted data available in this Spreadsheet: https://docs.google.com/spread
 # Plant Trait Ontology (from OBO)
 
 We tried to standardize the traits names from the different databases by mapping to the Plant Trait Ontology (https://www.ebi.ac.uk/ols/ontologies/to):
-Ontology IRI: http://purl.obolibrary.org/obo/to.owl
-Version IRI: http://purl.obolibrary.org/obo/to/releases/2018-09-25/to.owl
-Ontology id: to
-Version: 2018-09-25
-Number of terms: 5093
-Last loaded: Wed Sep 26 11:03:46 BST 2018
+ * Ontology IRI: http://purl.obolibrary.org/obo/to.owl
+ * Version IRI: http://purl.obolibrary.org/obo/to/releases/2018-09-25/to.owl
+ * Ontology id: to
+ * Version: 2018-09-25
+ * Number of terms: 5093
+ * Last loaded: Wed Sep 26 11:03:46 BST 2018
+
 Trait annotation using ZOOMA
 First trait mapping done by Peter, input from OECD database: https://docs.google.com/spreadsheets/d/1uD4sDoCvk-LL6wK9WbCB0wzDgr5EaX8qdvKize-kk2k/edit#gid=0 
 Peter: Not many terms mapped successfully onto OBO (ca 9/70)
